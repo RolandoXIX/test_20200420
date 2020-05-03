@@ -1,7 +1,7 @@
 # test_20200420
 
-Author: Emiliano Demagistris
-Contact: eademagistris@gmail.com
+######**Author:** *Emiliano Demagistris*  
+######**Contact:** *eademagistris@gmail.com*
 
 ### Setup
 ```

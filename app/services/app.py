@@ -29,4 +29,4 @@ class AppService():
         if is_valid_lat and is_valid_lon and is_valid_filters:
             return True
         else:
-            raise InvalidParameter(f'Incorrect latitude, longitude or filter')
+            raise InvalidParameter('Incorrect latitude, longitude or filter')

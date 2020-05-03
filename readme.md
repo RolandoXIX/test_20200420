@@ -1,6 +1,5 @@
 # test_20200420
 
-##### Author
 *Emiliano Demagistris*  
 *eademagistris@gmail.com*
 
